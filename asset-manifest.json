@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kaasu/static/css/main.a86bda18.css",
+    "main.js": "/kaasu/static/js/main.eab02e2c.js",
+    "index.html": "/kaasu/index.html",
+    "main.a86bda18.css.map": "/kaasu/static/css/main.a86bda18.css.map",
+    "main.eab02e2c.js.map": "/kaasu/static/js/main.eab02e2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a86bda18.css",
+    "static/js/main.eab02e2c.js"
+  ]
+}
