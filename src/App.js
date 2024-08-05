@@ -12,7 +12,7 @@ function App() {
 
 
     const [newItem, setNewItem] = useState('')
-    const [search, setSearch] =useState(' ')
+    const [search, setSearch] =useState('')
 
     
     const addItem=(item)=>{
@@ -62,7 +62,7 @@ function App() {
       />
       <SearchItem 
       search ={search}
-      setSearch ={setSearch }
+      setSearch ={setSearch}
       />
       <Content 
       items = {items.filter(item => ((item.item).toLowerCase()).includes(search.toLowerCase()))}
